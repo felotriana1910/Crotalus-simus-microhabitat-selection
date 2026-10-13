@@ -1,4 +1,6 @@
 # **Microhabitat Selection of the Mesoamerican Rattlesnake (*Crotalus simus*)**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23337942.svg)](https://doi.org/10.5281/zenodo.23337942)
+
 ## Description
 
 This code is associated with the paper “Microhabitat selection of the tropical rattlesnake *Crotalus simus* (Serpentes: Viperidae) at the southernmost extent of its distribution”, accepted for publication in Biotropica. Data can be access [here](https://data.mendeley.com/datasets/s94ccbvzyj/1).
